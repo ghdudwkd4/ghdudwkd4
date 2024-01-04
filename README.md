@@ -17,13 +17,13 @@
 <div>
   <img src="https://img.shields.io/badge/Java-131418?style=for-the-badge&logo=Java&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/JavaScript-131418?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-</div><br />
+</div><hr />
 
 ### Database
 <div>
   <img src="https://img.shields.io/badge/MySQL-131418?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Oracle-131418?style=for-the-badge&logo=oracle&logoColor=F80000" />
-</div><br />
+</div><hr />
 
 ### Frameworks / Library
 <div>
@@ -31,9 +31,9 @@
   <img src="https://img.shields.io/badge/Spring_Boot-131418?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/jQuery-131418?style=for-the-badge&logo=jquery&logoColor=0769AD" />
   <img src="https://img.shields.io/badge/Bootstrap-131418?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-</div><br />
+</div><hr />
 
-**Others**
+### Others
 <div>
   <img src="https://img.shields.io/badge/Apache-131418?style=for-the-badge&logo=Apache&logoColor=bf385f" />
   <img src="https://img.shields.io/badge/Git-131418?style=for-the-badge&logo=Git&logoColor=F05032" />
@@ -41,10 +41,9 @@
   <img src="https://img.shields.io/badge/Subversion-131418?style=for-the-badge&logo=Subversion&logoColor=7c97c3" />
   <img src="https://img.shields.io/badge/CentOs-131418?style=for-the-badge&logo=CentOs&logoColor=E95420" />
   <img src="https://img.shields.io/badge/Markdown-131418?style=for-the-badge&logo=markdown&logoColor=white" />
-</div>
+</div><hr />
 
 ### IDE
-<hr>
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-131418?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-131418?style=for-the-badge&logo=intellij-idea&logoColor=white" />
