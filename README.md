@@ -6,7 +6,7 @@
 <p>깔끔한 주석과 코드를 하려고 노력하는 개발자입니다.</p>
 
 <p>
-  <a href="https://picturesque-cost-05f.notion.site/KIM-DONG-RYUL-ghdudwkd4-e2160a44c3ac4c73ba0450ee2d1687ae?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Introduce_Page-071D49?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
+  <a href="https://my.surfit.io/w/1239276339" target="_blank"><img src="https://img.shields.io/badge/Introduce_Page-071D49?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
   <a href="https://ghdudwkd4.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:ghdudwkd4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghdudwkd4@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
